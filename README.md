@@ -1,5 +1,6 @@
 ### Hi  👋
 
+Dont mind me I am just pressing keys randomly until something good appears on screen
 
 ![hey](https://github.com/mamonu/mamonu/raw/master/2GU.gif)
 
