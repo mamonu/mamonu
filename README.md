@@ -1,6 +1,6 @@
 ### Hi  👋
 
-Dont mind me I am just pressing keys randomly until something good appears on screen
+Dont mind me I am just pressing keys randomly until something good happens on the screen
 
 ![hey](https://github.com/mamonu/mamonu/raw/master/2GU.gif)
 
