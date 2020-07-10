@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi  👋
 
 
-![hey](https://github.com/mamonu/mamonu/raw/master/2eXH.gif)
+![hey](https://github.com/mamonu/mamonu/raw/master/2GU.gif)
 
 
 
