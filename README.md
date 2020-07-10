@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+![hey](https://github.com/mamonu/mamonu/raw/master/2eXH.gif)
+
+
+
+
+
+
 <!--
 **mamonu/mamonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
