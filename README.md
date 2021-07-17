@@ -1,4 +1,7 @@
-### Hi  👋
+### Hi  👋 i am TM or mamonu !
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamonu&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mamonu&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamonu&theme=monokai)
 
 Dont mind me I am just pressing keys randomly until something good happens on the screen
 
