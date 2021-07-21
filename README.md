@@ -1,4 +1,7 @@
-### Hi  👋 i am TM or mamonu !
+### Hi there!! 👋 
+
+I am TM or @mamonu !
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamonu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamonu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamonu&theme=monokai)
