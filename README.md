@@ -1,19 +1,15 @@
 ### Hi there!! 👋 
 
-I am TM or @mamonu !
+I am TM or @mamonu ! I'm interested in <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/scala.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachespark.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamonu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamonu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamonu&theme=monokai)
 
-Dont mind me I am just pressing keys randomly until something good happens on the screen
 
 ![hey](https://github.com/mamonu/mamonu/raw/master/2GU.gif)
 
-
-
-
-
+Dont mind me I am just pressing keys randomly until something good happens on the screen
 
 <!--
 **mamonu/mamonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
