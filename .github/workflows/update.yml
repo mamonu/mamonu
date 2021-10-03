@@ -20,12 +20,12 @@ jobs:
         run: pip install feedparser
 
       - name: run update
-        run: ./generate.py > README.md
+        run: ./generate.py > LatestUpdates.md
       - name: update local git repo if necessary
         run: |-
           git diff
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "mamonu"
           git add -A
-          git commit -m "Updated README" || exit 0
+          git commit -m "Updated LatestUpdates.md" || exit 0
           git push
