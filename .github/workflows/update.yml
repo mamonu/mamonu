@@ -21,7 +21,8 @@ jobs:
       - name: update permissions
         run: git update-index --chmod=+x generate.py
       - name: run update
-        run: python generate.py > LatestUpdates.md
+        run: |
+          python generate.py > LatestUpdates.md
       - name: update local git repo if necessary
         run: |-
           git diff
