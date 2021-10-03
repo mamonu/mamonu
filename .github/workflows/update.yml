@@ -1,0 +1,31 @@
+name: Self Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: setup Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: install feedparser
+        run: pip install feedparser
+
+      - name: run update
+        run: ./generate.py > README.md
+      - name: update local git repo if necessary
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "mamonu"
+          git add -A
+          git commit -m "Updated README" || exit 0
+          git push
