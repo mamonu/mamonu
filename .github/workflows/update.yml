@@ -18,7 +18,8 @@ jobs:
           python-version: 3.9
       - name: install feedparser
         run: pip install feedparser
-
+      - name: update permissions
+        run: git update-index --chmod=+x generate.py
       - name: run update
         run: ./generate.py > LatestUpdates.md
       - name: update local git repo if necessary
