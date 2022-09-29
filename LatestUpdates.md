@@ -1,6 +1,6 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
-| [splink](https://github.com/moj-analytical-services/splink) | 3.3.8 | 2022-09-26 |
+| [splink](https://github.com/moj-analytical-services/splink) | 3.3.9 | 2022-09-28 |
 | [splink_graph](https://github.com/moj-analytical-services/splink_graph) | 0.5.0 | 2022-03-14 |
 | [splink_data_standardisation](https://github.com/moj-analytical-services/splink_data_standardisation) | 0.2.9 | 2021-11-18 |
