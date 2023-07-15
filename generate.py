@@ -3,8 +3,7 @@ import feedparser
 
 python_projects = [
     "splink",
-    "splink_graph",
-    "splink_data_standardisation"
+    "splink_graph"
 ]
 
 
