@@ -7,8 +7,10 @@
 
 👋 I am Theodore
 
+
 📖 I am particularly interested in:
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/> </a> <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" alt="dbt" width="40" height="40"/></a><a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> <img src="https://iceberg.apache.org//img/iceberg-logo-icon.png" alt="iceberg" width="40" height="40"/> </a>
+
 
 🔭 I’m currently working a a data engineer in the Ministry of Justice , building and maintaining a SCD2 solution on production pipelines using Amazon Athena / Apache Iceberg / dbt
 
