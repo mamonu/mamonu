@@ -14,8 +14,11 @@
 
 🔭 I’m currently working as a data engineer in the Ministry of Justice , building and maintaining a SCD2 solution on production pipelines using Amazon Athena / Apache Iceberg / dbt
 
-🌱 I’m currently learning 
+🌱 I’m currently learning or getting better at:
   - how to use Apache Iceberg effectively <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> <img src="https://iceberg.apache.org//img/iceberg-logo-icon.png" alt="iceberg" width="40" height="40"/> </a>
+  
+  - Scala <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
+  
   - TypeScript  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 
 
