@@ -20,7 +20,7 @@
  -  Learning Go <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a>
  -  Surviving MS-SQL Server 2014 and T-SQL. Yes, MSSQL2014. No, it wasn’t my choice. Yes, I’m crying inside.
 
-   Not so much anymore but still have fondness for it
+   Not so much working with the below anymore but still have fondness for it
  -  Scala <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
   
 
