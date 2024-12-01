@@ -3,8 +3,6 @@
 </br>
 </br>
 
-
-
 👋 I am Theodore
 
 </br>
@@ -18,14 +16,24 @@
 📖 I am particularly interested in:
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/> </a> <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" alt="dbt" width="40" height="40"/></a><a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> <img src="https://iceberg.apache.org/assets/images/Iceberg-logo.svg" alt="iceberg" width="120" height="40"/> </a><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a>
 
+</br>
 
+--- 
+
+</br>
 
 
 🌱 I’m currently learning or getting better at:
 
- -  Learning Terraform for IaC (Infrastructure as Code) projects I am working on. I’m learning to treat infrastructure the same way as application code. 
+ -  Learning Terraform for IaC (Infrastructure as Code) projects I am working on. 
  -  Learning Go <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a>
  -  Surviving MS-SQL Server 2014 and T-SQL. Yes, MSSQL2014. No, it wasn’t my choice. Yes, I’m crying inside.
+
+</br>
+
+--- 
+
+</br>
 
 💤🥱  I am not working so much with the below anymore:
 
@@ -33,6 +41,9 @@
   
 
 </br>
+
+---
+
 </br>
 
 ### I can be reached on:
@@ -42,6 +53,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-_TheodoreM_-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_TheodoreM_) 
 <a href="https://www.linkedin.com/in/theodoremanassis/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="20" height="20"/> </a>
 
+</br>
+
+---
+
+</br>
 </br>
 
 ### Open Source Programming Projects I have been helping maintain or maintaining myself
