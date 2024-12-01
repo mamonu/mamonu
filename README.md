@@ -9,15 +9,19 @@
 
 
 📖 I am particularly interested in:
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/> </a> <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" alt="dbt" width="40" height="40"/></a><a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> <img src="https://iceberg.apache.org/assets/images/Iceberg-logo.svg" alt="iceberg" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/> </a> <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" alt="dbt" width="40" height="40"/></a><a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> <img src="https://iceberg.apache.org/assets/images/Iceberg-logo.svg" alt="iceberg" width="80" height="40"/> </a><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> </a>
 
 
 🔭 I’m currently working as a data engineer in the Ministry of Justice , building and maintaining a SCD2 solution on production pipelines using Amazon Athena / Apache Iceberg / dbt
 
 🌱 I’m currently learning or getting better at:
-  - how to use Apache Iceberg effectively <a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"> <img src="https://iceberg.apache.org//img/iceberg-logo-icon.png" alt="iceberg" width="40" height="40"/> </a>
-  
-  - Scala <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
+
+ -  Learning Terraform for IaC (Infrastructure as Code) projects I am working on. I’m learning to treat infrastructure the same way as application code. 
+ -  Learning Go <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a>
+ -  Surviving MS-SQL Server 2014 and T-SQL. Yes, MSSQL2014. No, it wasn’t my choice. Yes, I’m crying inside.
+
+   Not so much anymore but still have fondness for it
+ -  Scala <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
   
 
 </br>
