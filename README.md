@@ -51,7 +51,7 @@
 </br>
   
 [![Twitter Badge](https://img.shields.io/badge/-_TheodoreM_-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_TheodoreM_) 
-<a href="https://www.linkedin.com/in/theodoremanassis/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="20" height="20"/> </a>
+<a href="https://www.linkedin.com/in/theodoremanassis/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="20" height="20"/> </a>[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/mamonu.bsky.social)
 
 </br>
 
