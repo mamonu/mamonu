@@ -27,6 +27,7 @@
 
  -  Learning Terraform for IaC (Infrastructure as Code) projects I am working on. 
  -  Learning Go <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" /></a>
+ -  Learning Lua <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" /></a> in order to do some Games Dev on the side
  -  Surviving MS-SQL Server 2014 and T-SQL. Yes, MSSQL2014. No, it wasn’t my choice. Yes, I’m crying inside.
 
 </br>
