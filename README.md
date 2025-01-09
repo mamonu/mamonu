@@ -93,7 +93,7 @@ I’m currently working as a Data Engineer in the Ministry of Justice , building
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamonu&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamonu&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamonu&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamonu&theme=monokai&exclude=html)
 
 </br>
 </br>
