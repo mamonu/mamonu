@@ -1,15 +1,18 @@
 ## Hi there!! I am Theodore 👋 
 
 
-
-🔭 I’m currently working as a data engineer in the Ministry of Justice , building and maintaining a SCD2 solution on production pipelines using Amazon Athena / Apache Iceberg / dbt
-
-
+<br/>
+<br/>
 <br/>
 
----
+I’m currently working as a Data Engineer in the Ministry of Justice , building and maintaining a SCD2 solution on production pipelines using Amazon Athena / Apache Iceberg / dbt
 
-## 📖 I am particularly interested in:
+
+<br/><br/><br/>
+
+
+
+##  I am particularly interested in:
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Apache Spark" width="40px" src="https://spark.apache.org/images/spark-logo-rev.svg" style="padding-right:10px;" />
@@ -20,10 +23,12 @@
 <img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" style="padding-right:10px;" />
 
+  
+
 <br/>
 <br/>
 
----
+
 
 </br>
 </br>
@@ -37,13 +42,16 @@
 - Learning Lua <img align="center" alt="Lua" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /> to do some game development on the side.  
 - Surviving **MS-SQL Server 2014** and T-SQL. Yes, MSSQL2014. No, it wasn’t my choice. Yes, I’m crying inside.
 
----
+<br/><br/><br/>
 
 
-## 💤🥱  I am not working so much with the below anymore:
+## I use the following tools & Technologies:
 
- -  Scala <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-  
+<img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
+<img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
 
 </br>
 
