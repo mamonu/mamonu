@@ -1,14 +1,15 @@
 ## Hi there!! I am Theodore 👋 
 
 
-<br/>
-<br/>
+
 <br/>
 
-I’m currently working as a Data Engineer in the Ministry of Justice , building and maintaining a SCD2 solution on production pipelines using Amazon Athena / Apache Iceberg / dbt
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=💻+I’m+a+Data+Engineer+working+in+the+MOJ+💻;" alt="Typing SVG" /></a>
 
 
-<br/><br/><br/>
+
+<br/>
 
 
 
@@ -51,7 +52,6 @@ I’m currently working as a Data Engineer in the Ministry of Justice , building
 <img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
 <img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
 
 </br>
 
