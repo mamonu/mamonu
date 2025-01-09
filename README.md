@@ -94,7 +94,7 @@ I’m currently working as a Data Engineer in the Ministry of Justice , building
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mamonu&theme=outrun)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mamonu&theme=outrun)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mamonu&theme=outrun&exclude=html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mamonu&theme=outrun&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mamonu&theme=outrun&utcOffset=1)
 
 </br>
 </br>
