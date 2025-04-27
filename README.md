@@ -34,16 +34,20 @@
 - Learning Terraform for IaC (Infrastructure as Code) projects I am working on.  
 - Learning Go <img align="center" alt="Go" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />  
 - Learning Lua <img align="center" alt="Lua" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /> to do some game development on the side.  
-- Surviving **MS-SQL Server 2014** and T-SQL. Yes, MSSQL2014. No, it wasn’t my choice. Yes, I’m crying inside.
+
 
 <br/><br/><br/>
 
 
 ## I use the following tools & Technologies:
 
+
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
 <img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
+<img align="left" alt="AWS Athena" width="36px" src="./img/Athena.png" style="padding-right:10px;" />
+<img align="left" alt="AWS Lambda" width="36px" src="./img/Lambda.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 </br>
