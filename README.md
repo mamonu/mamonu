@@ -5,13 +5,6 @@
 <br/>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=💻+I’m+a+Data+Engineer+working+in+the+MOJ+💻;" alt="Typing SVG" /></a>
-
-
-
-<br/>
-
-
 
 ##  I am particularly interested in:
 
