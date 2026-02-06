@@ -1,23 +1,20 @@
 ## Hi there!! I am Theodore 👋 
-
-
-
 <br/>
-
-
-
 ##  I am particularly interested in:
-
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Apache Spark" width="40px" src="https://spark.apache.org/images/spark-logo-rev.svg" style="padding-right:10px;" />
 <img align="left" alt="Scala" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" style="padding-right:10px;" />
-<img align="left" alt="dbt" width="40px" src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" style="padding-right:10px;" />
+<img align="left" alt="dbt" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Iceberg" width="120px" src="https://iceberg.apache.org/assets/images/Iceberg-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JUCE" width="40px" src="https://raw.githubusercontent.com/juce-framework/JUCE/master/docs/JUCE%20Icon%20(transparent).png" style="padding-right:10px;" />
+<img align="left" alt="Atom" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" style="padding-right:10px;" />
   
+  
+<br/>
 
 <br/>
 <br/>
