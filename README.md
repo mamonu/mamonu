@@ -1,5 +1,10 @@
-## Hi there!! I am Theodore 👋 
-<br/>
+
+
+<!-- Animated header -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=230&section=header&text=Theodore%20M&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Local%20AI%20Model%20Tinkerer%20%20&descSize=17&descAlignY=52&descColor=e0e7ff" width="100%" />
+
+
 ##  I am particularly interested in:
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Apache Spark" width="40px" src="https://spark.apache.org/images/spark-logo-rev.svg" style="padding-right:10px;" />
@@ -12,8 +17,8 @@
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JUCE" src="https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge&logo=juce&logoColor=white" style="padding-right:10px;" />
 <img align="left" alt="Atom" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" style="padding-right:10px;" />
-  
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=120&section=footer" width="100%" />  
 <br/>
 
 <br/>
