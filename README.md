@@ -2,7 +2,11 @@
 
 <!-- Animated header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=230&section=header&text=Theodore%20M&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Local%20AI%20Model%20Tinkerer%20%20&descSize=17&descAlignY=52&descColor=e0e7ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=230&section=header&text=Theodore%20M&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Local%20AI%20Tinkerer%20%20&descSize=17&descAlignY=52&descColor=e0e7ff" width="100%" />
+
+<p align="center">
+  <a href="https://mamonu.github.io"><b>mamonu.github.io</b></a> — the longer version, with more moving parts
+</p>
 
 
 ##  I am particularly interested in:
@@ -21,7 +25,7 @@
 <br clear="left" />
 <br/>
 
-## 🤖 Local AI / LLM tinkering:
+## 🤖 Running models on my own hardware
 
 <a href="https://huggingface.co/models" target="_blank" rel="noreferrer"><img align="left" alt="Hugging Face" width="40px" title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" /></a>
 <a href="https://lmstudio.ai/" target="_blank" rel="noreferrer"><img align="left" alt="LM Studio" width="40px" title="LM Studio" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" style="padding-right:10px;" /></a>
@@ -48,7 +52,6 @@
 
 ## 🌱 I’m currently learning:
 
-- Learning Terraform for IaC (Infrastructure as Code) projects I am working on.  
 - Learning Go <img align="center" alt="Go" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />  
 - Learning Lua <img align="center" alt="Lua" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /> to do some game development on the side.
 - Using the JUCE C++ framework to do some VST development on the side
@@ -88,7 +91,7 @@
 </br>
 </br>
 
-### Open Source Programming Projects I have been helping maintain or maintaining myself
+### Open source I maintain (or help maintain)
 
 </br>
 
@@ -100,7 +103,7 @@
 
 </br>
 
-### Some code stats
+### Numbers about my commits, presented without comment
 
 
 </br>
