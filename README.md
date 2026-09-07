@@ -18,6 +18,18 @@
 <img align="left" alt="JUCE" src="https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge&logo=juce&logoColor=white" style="padding-right:10px;" />
 <img align="left" alt="Atom" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" style="padding-right:10px;" />
 
+<br clear="left" />
+<br/>
+
+## 🤖 Local AI / LLM tinkering:
+
+<img align="left" alt="Hugging Face" width="40px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
+<img align="left" alt="LM Studio" width="40px" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="llama.cpp" width="40px" src="https://raw.githubusercontent.com/ggml-org/llama.cpp/master/media/llama1-icon-transparent.svg" style="padding-right:10px;" />
+<img align="left" alt="Unsloth" width="40px" src="https://avatars.githubusercontent.com/u/150920049?s=200&v=4" style="padding-right:10px;" />
+
+<br clear="left" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=120&section=footer" width="100%" />  
 <br/>
 
