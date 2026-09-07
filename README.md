@@ -6,30 +6,30 @@
 
 
 ##  I am particularly interested in:
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Apache Spark" width="40px" src="https://spark.apache.org/images/spark-logo-rev.svg" style="padding-right:10px;" />
-<img align="left" alt="Scala" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" style="padding-right:10px;" />
-<img align="left" alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Iceberg" width="120px" src="https://iceberg.apache.org/assets/images/Iceberg-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JUCE" src="https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge&logo=juce&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Atom" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" style="padding-right:10px;" />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" alt="Python" width="40px" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" /></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img align="left" alt="Apache Spark" width="40px" title="Apache Spark" src="https://spark.apache.org/images/spark-logo-rev.svg" style="padding-right:10px;" /></a>
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"><img align="left" alt="Scala" width="40px" title="Scala" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" style="padding-right:10px;" /></a>
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img align="left" alt="dbt" title="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" style="padding-right:10px;" /></a>
+<a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"><img align="left" alt="Iceberg" width="120px" title="Iceberg" src="https://iceberg.apache.org/assets/images/Iceberg-logo.svg" style="padding-right:10px;" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img align="left" alt="Terraform" width="40px" title="Terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img align="left" alt="Go" width="40px" title="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="padding-right:10px;" /></a>
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img align="left" alt="Lua" width="40px" title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" style="padding-right:10px;" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img align="left" alt="C++" width="40px" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" /></a>
+<a href="https://juce.com/" target="_blank" rel="noreferrer"><img align="left" alt="JUCE" title="JUCE" src="https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge&logo=juce&logoColor=white" style="padding-right:10px;" /></a>
+<a href="https://www.electronjs.org/docs/latest/api/app" target="_blank" rel="noreferrer"><img align="left" alt="Electron" width="40px" title="Electron" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" style="padding-right:10px;" /></a>
 
 <br clear="left" />
 <br/>
 
 ## 🤖 Local AI / LLM tinkering:
 
-<img align="left" alt="Hugging Face" width="40px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" />
-<img align="left" alt="LM Studio" width="40px" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="llama.cpp" width="40px" src="https://raw.githubusercontent.com/ggml-org/llama.cpp/master/media/llama1-icon-transparent.svg" style="padding-right:10px;" />
-<img align="left" alt="Unsloth" width="40px" src="https://avatars.githubusercontent.com/u/150920049?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="FreeToken" width="40px" src="https://avatars.githubusercontent.com/u/286493426?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="Msty Studio" width="40px" src="https://msty.ai/brands/studio.svg" style="padding-right:10px;" />
-<img align="left" alt="llama.cpp Manager" src="https://img.shields.io/badge/llama.cpp%20Manager-F97316?style=for-the-badge&logoColor=white" style="padding-right:10px;" />
+<a href="https://huggingface.co/models" target="_blank" rel="noreferrer"><img align="left" alt="Hugging Face" width="40px" title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding-right:10px;" /></a>
+<a href="https://lmstudio.ai/" target="_blank" rel="noreferrer"><img align="left" alt="LM Studio" width="40px" title="LM Studio" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" style="padding-right:10px;" /></a>
+<a href="https://github.com/ggml-org/llama.cpp" target="_blank" rel="noreferrer"><img align="left" alt="llama.cpp" width="40px" title="llama.cpp" src="https://raw.githubusercontent.com/ggml-org/llama.cpp/master/media/llama1-icon-transparent.svg" style="padding-right:10px;" /></a>
+<a href="https://unsloth.ai/" target="_blank" rel="noreferrer"><img align="left" alt="Unsloth" width="40px" title="Unsloth" src="https://avatars.githubusercontent.com/u/150920049?s=200&v=4" style="padding-right:10px;" /></a>
+<a href="https://github.com/FlashML-org/FreeToken" target="_blank" rel="noreferrer"><img align="left" alt="FreeToken" width="40px" title="FreeToken" src="https://avatars.githubusercontent.com/u/286493426?s=200&v=4" style="padding-right:10px;" /></a>
+<a href="https://msty.ai/products/studio/" target="_blank" rel="noreferrer"><img align="left" alt="Msty Studio" width="40px" title="Msty Studio" src="https://msty.ai/brands/studio.svg" style="padding-right:10px;" /></a>
+<a href="https://github.com/takasurazeem/llama_cpp_manager" target="_blank" rel="noreferrer"><img align="left" alt="llama.cpp Manager" title="llama.cpp Manager" src="https://img.shields.io/badge/llama.cpp%20Manager-F97316?style=for-the-badge&logoColor=white" style="padding-right:10px;" /></a>
 
 <br clear="left" />
 
@@ -60,13 +60,13 @@
 ## I use the following tools & technologies:
 
 
-<img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
-<img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
-<img align="left" alt="AWS Athena" width="36px" src="./img/Athena.png" style="padding-right:10px;" />
-<img align="left" alt="AWS Lambda" width="36px" src="./img/Lambda.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="36px" title="Git" src="./img/git2.png" style="padding-right:10px;" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="left" alt="Docker" width="36px" title="Docker" src="./img/docker.png" style="padding-right:10px;" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank" rel="noreferrer"><img align="left" alt="REST APIs" width="36px" title="REST APIs" src="./img/rest-api.png" style="padding-right:10px;" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" alt="Python" width="36px" title="Python" src="./img/python2.png" style="padding-right:10px;" /></a>
+<a href="https://aws.amazon.com/athena/" target="_blank" rel="noreferrer"><img align="left" alt="AWS Athena" width="36px" title="AWS Athena" src="./img/Athena.png" style="padding-right:10px;" /></a>
+<a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img align="left" alt="AWS Lambda" width="36px" title="AWS Lambda" src="./img/Lambda.png" style="padding-right:10px;" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="Visual Studio Code" width="30px" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 
 </br>
 
