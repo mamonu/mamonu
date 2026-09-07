@@ -52,9 +52,9 @@
 
 ## 🌱 I’m currently learning:
 
-- Learning Go <img align="center" alt="Go" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />  
-- Learning Lua <img align="center" alt="Lua" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /> to do some game development on the side.
-- Using the JUCE C++ framework to do some VST development on the side
+- **Go** <img align="center" alt="Go" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />, slowly, mostly by rewriting things that already worked in Python
+- **Lua** <img align="center" alt="Lua" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />, for game dev on the side
+- **JUCE**, for building VSTs, which is 10% DSP and 90% fighting the plugin format
 
 
 <br/><br/><br/>
