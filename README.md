@@ -27,6 +27,9 @@
 <img align="left" alt="LM Studio" width="40px" src="https://avatars.githubusercontent.com/u/133744619?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="llama.cpp" width="40px" src="https://raw.githubusercontent.com/ggml-org/llama.cpp/master/media/llama1-icon-transparent.svg" style="padding-right:10px;" />
 <img align="left" alt="Unsloth" width="40px" src="https://avatars.githubusercontent.com/u/150920049?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="FreeToken" width="40px" src="https://avatars.githubusercontent.com/u/286493426?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="Msty Studio" width="40px" src="https://msty.ai/brands/studio.svg" style="padding-right:10px;" />
+<img align="left" alt="llama.cpp Manager" src="https://img.shields.io/badge/llama.cpp%20Manager-F97316?style=for-the-badge&logoColor=white" style="padding-right:10px;" />
 
 <br clear="left" />
 
